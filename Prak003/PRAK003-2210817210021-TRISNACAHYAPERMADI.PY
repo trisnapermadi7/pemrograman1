@@ -1,0 +1,1 @@
+print ("Andy Berkata \"saya Pasti Bisa\"")
